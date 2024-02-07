@@ -36,6 +36,8 @@ This course was created by Birk Gustav Samson Stoveland, Olav Selnes Lorentzen a
 
 <table align="center">
     <td align="center">
+        <a href="https://github.com/redrei">
+            <img src="https://github.com/redrei.png?size=100" width="100px;" alt="Birk Gustav Samson Stoveland"/><br />
             <sub><b>Birk Gustav Samson Stoveland</b></sub>
         </a>
     </td>
