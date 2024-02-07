@@ -34,8 +34,7 @@ Happy learning!
 ## Contributors
 This course was created by Birk Gustav Samson Stoveland, Olav Selnes Lorentzen and Sverre Nystad. Using our combined experiences out in industry, programming, and machine learning, we have crafted this course to help you understand and work with Large Language Models.
 
-<table>
-  <tr>
+<table align="center">
     <td align="center">
             <sub><b>Birk Gustav Samson Stoveland</b></sub>
         </a>
@@ -52,5 +51,4 @@ This course was created by Birk Gustav Samson Stoveland, Olav Selnes Lorentzen a
             <sub><b>Sverre Nystad</b></sub>
         </a>
     </td>
-  </tr>
 </table>
