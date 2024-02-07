@@ -32,9 +32,14 @@ Refer to the "Extras" section for additional tools and techniques beyond the cou
 Happy learning!
 
 ## Contributors
+This course was created by Birk Gustav Samson Stoveland, Olav Selnes Lorentzen and Sverre Nystad. Using our combined experiences out in industry, programming, and machine learning, we have crafted this course to help you understand and work with Large Language Models.
 
 <table>
   <tr>
+    <td align="center">
+            <sub><b>Birk Gustav Samson Stoveland</b></sub>
+        </a>
+    </td>
     <td align="center">
         <a href="https://github.com/olavsl">
             <img src="https://github.com/olavsl.png?size=100" width="100px;" alt="Olav Selnes Lorentzen"/><br />
